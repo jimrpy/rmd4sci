@@ -83,7 +83,7 @@ You'll notice that this creates some folders called "FILENAME_files" - you can c
 knitr::opts_chunk$set(fig.path = "figs")
 ```
 
-Which would instead create a new folder aclled "figs".
+Which would instead create a new folder called "figs".
 
 ## Your Turn {.exercise}
 
